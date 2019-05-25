@@ -2,8 +2,8 @@
  Group Project (Stat 410: Statistical Analysis of Sampling surveys) 
 
 LingXiang Zou
-Tan Tian
-Jiajun Zhang
+,Tan Tian
+,Jiajun Zhang
 
 
 Maximizing the use of the travel budget is often the most important thing that travellers consider. Nowadays, instead of staying in a hotel, there is also a large number of travellers tend to choose hostels as their accommodation because of the low cost and decent quality. Hostels are no longer just for lone backpackers and group of students, but it is also becoming popular among older adults, families and even business traveller who only have a tight budget. 
